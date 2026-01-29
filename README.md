@@ -13,16 +13,7 @@ I am a third-year undergraduate student at the **Faculty of Computational Mathem
 - Data-driven solutions and software engineering practices 
 
 ## Technical Skills  
-- **Programming Languages**: Python, C, C++, Go, Lisp, Haskell, Assembler, SQL   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lisp/lisp-original.svg" title="Lisp" alt="Lisp" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lisp/lisp-original.svg" title="Lisp" alt="Lisp" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x86/x86-original.svg" title="Assembly (x86)" alt="Assembly" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="SQL" alt="SQL" width="50" height="50"/>
+- **Programming Languages**: Python, C, C++, Go, Lisp, Haskell, Assembler, SQL 
 
 - **Natural Language Processing (NLP)**: NLTK, spaCy, Transformers (Hugging Face), text preprocessing and embeddings 
 - **Machine Learning and Data Science**: scikit-learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, Matplotlib
