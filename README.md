@@ -1,16 +1,28 @@
-## Hi there 👋
+## Maria Mamieva | Computer Science Student at Lomonosov Moscow State University  
 
-<!--
-**mariealanie/mariealanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+I am a third-year undergraduate student at the **Faculty of Computational Mathematics and Cybernetics** at **Lomonosov Moscow State University (MSU)**. My academic focus is on **algorithmic languages**. I am particularly interested in **Machine learning, natural language processing (NLP), algorithmic programming, and front-end development technologies**.  
 
-Here are some ideas to get you started:
+## Academic and Research Interests       
+- Numerical methods for solving differential equations
+- Machine learning, deep learning techniques and artificial intelligence  
+- Natural language processing (NLP) and text analytics
+- Algorithmic programming and computational problem solving
+- Front-end development and interactive web applications
+- Integration of AI models with user-oriented interfaces
+- Data-driven solutions and software engineering practices 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills  
+- **Programming Languages**: Python, C, C++, Go, Lisp, Haskell, Assembler, SQL
+- **Natural Language Processing (NLP)**: NLTK, spaCy, Transformers (Hugging Face), text preprocessing and embeddings 
+- **Machine Learning and Data Science**: scikit-learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, Matplotlib
+- **Algorithms & Data Structures**: graph algorithms, dynamic programming, optimization techniques, functional programming
+
+## Contact Information  
+- **Email**: mariamamieva04@gmail.com
+- **Telegram**: @mariealani [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?style=for-the-badge&logo=telegram)](https://t.me/mariealani) 
+
+
+---  
+
+This profile serves as a brief introduction to my academic and technical background. I am always open to research collaborations, professional networking, and new learning opportunities.  
