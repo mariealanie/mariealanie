@@ -13,7 +13,7 @@ I am a third-year undergraduate student at the **Faculty of Computational Mathem
 - Data-driven solutions and software engineering practices 
 
 ## Technical Skills  
-- **Programming Languages**: Python, C, C++, Go, Lisp, Haskell, Assembler, SQL 
+- **Programming Languages**: Python, C, C++, Go, Lisp, Haskell, Assembler, SQL, Java, Swift(base) 
 
 - **Natural Language Processing (NLP)**: NLTK, spaCy, Transformers (Hugging Face), text preprocessing and embeddings 
 - **Machine Learning and Data Science**: scikit-learn, TensorFlow, PyTorch, Keras, Pandas, NumPy, Matplotlib
